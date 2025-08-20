@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Farmzy Backend Starter
 ======================
@@ -26,3 +27,7 @@ API Endpoints (examples):
 - POST /orders           -> Create order (auth required)
 - GET  /orders/:id       -> Get order
 
+=======
+# Farmzy_backend
+Farmzy node application with firebase studio 
+>>>>>>> c03324ce3654a989380207fde6e25e88e6b92691
